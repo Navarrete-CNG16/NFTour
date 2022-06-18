@@ -1,0 +1,2 @@
+# NFTour
+Consiste en una aplicación de realidad aumentada, la cual genera visitas a ciertos lugares turísticos del estado, visualizando la información histórica y cultural del lugar en realidad aumentada con apoyo de imágenes únicas y diseños de comunidades generados solo para este lugar turístico los cuales son NFT dándote así la propiedad del mismo, siendo así observados por todos los turistas que posteriormente visiten ese lugar. 
